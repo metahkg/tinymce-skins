@@ -1,0 +1,12 @@
+{
+  "name": "@metahkg/tinymce-skins",
+  "version": "1.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "description": "Metahkg tinymce skins",
+  "repository": "https://gitlab.com/metahkg/tinymce-skins.git",
+  "author": "wcyat",
+  "license": "MIT",
+  "dependencies": {}
+}
